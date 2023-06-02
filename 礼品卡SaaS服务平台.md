@@ -58,3 +58,12 @@
 
 ### 1.5.4 运营端
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685612186120-7ee2ced0-25e1-41cf-a8af-2a18814e66ed.png#averageHue=%23fbfaf9&clientId=u93d1b0d8-d4cd-4&from=paste&height=852&id=ue7718c0b&originHeight=852&originWidth=1849&originalType=binary&ratio=1&rotation=0&showTitle=false&size=133152&status=done&style=none&taskId=u884ad1b9-60ca-44db-aa7a-3809d561680&title=&width=1849)
+
+## 1.6 联系我们
+- 联系电话
+ > 1.   负责人-韩可可-136 4551 4005
+ > 2.   市场总监-苗旭-187 5619 6180
+- 微信
+**韩可可**
+> ![image](https://github.com/sass-store/doc/assets/11770232/af6fe864-4bd5-4f4d-bc35-67d95f56d289)
+
