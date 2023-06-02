@@ -1,6 +1,7 @@
-![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6d5f5ca237e64cae9097bf6acd0db9ea~tplv-k3u1fbpfcp-zoom-1.image)
-## 合肥灼灼信息技术有限公司 
-[Laf云开发平台](https://www.laf.run)
+
+## 合肥灼灼信息技术有限公司
+ 
+[laf 云开发平台](https://www.laf.run)
 
 # 礼品卡SaaS服务平台
 ###   礼品卡SaaS服务平台是集基础数据平台、统一支付系统、制卡管理系统、智能提货系统、在线商城系统、物流配送系统、智能客服系统、财务管理系统、数据分析系统为一体的综合性、智能化服务平台。
@@ -8,30 +9,7 @@
      
 ## 1.1 亮点
 礼品卡提货SaaS系统是灼灼公司经过多年的系统研发经验沉淀而成，专为广大礼品商家、大闸蟹商家、礼品卡礼品券商家而研发。系统功能专一、稳定、安全，全面满足在线提货需求，支持特殊功能定制开发。
-![icon_vip.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685594587986-334703b1-3069-465c-839d-46d7c9e13573.png#averageHue=%2373cb2a&clientId=u71313217-4065-4&from=paste&height=80&id=u9f5a12a5&originHeight=71&originWidth=74&originalType=binary&ratio=1&rotation=0&showTitle=false&size=3669&status=done&style=none&taskId=u28c4a298-960b-41f6-bbc7-9c57f81be8f&title=&width=82.99305725097656)                
- **多种卡类支持**
-     单次兑换卡、多次兑换卡等多种卡类多种场景
-
-![icon_xingxiang.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685594821631-c09aedf1-7596-4523-be7f-bc3a273dadfe.png#averageHue=%237aa496&clientId=u71313217-4065-4&from=drop&id=ua9599fcd&originHeight=76&originWidth=97&originalType=binary&ratio=1&rotation=0&showTitle=false&size=4869&status=done&style=none&taskId=u5bb714f6-9f58-43b2-b454-cbfec07bb60&title=)
-**品牌形象自定义**
-商家名称、LOGO、形象图、背景图等均可自定义
-
-![icon_anquan.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685595007035-5070a255-9358-4e5d-8591-1f7730222f08.png#averageHue=%23bccbfe&clientId=u71313217-4065-4&from=drop&id=ub0ca6817&originHeight=78&originWidth=98&originalType=binary&ratio=1&rotation=0&showTitle=false&size=4285&status=done&style=none&taskId=u74056da9-5737-4cb9-b66d-190a5dac9af&title=)
-**数据安全有保障**
-云端存储更安全，携手云开发，打造数据安全
-### 
-
-![icon_wx.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685594758952-54490bc7-25a2-4569-97f5-e6f8ae2c69e0.png#averageHue=%23e49636&clientId=u71313217-4065-4&from=paste&height=70&id=QEPJO&originHeight=70&originWidth=103&originalType=binary&ratio=1&rotation=0&showTitle=false&size=4514&status=done&style=none&taskId=uc0a14b33-bfe4-472d-936c-206f84548ac&title=&width=103)
-**提货方式灵活方便**
-电脑、平板、手机、微信、二维码提货均支持
-
-![icon_xingzhuang.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685594913383-c7b6e4a4-0009-4672-afe8-4bbf8fa13bb5.png#averageHue=%23f9582e&clientId=u71313217-4065-4&from=drop&id=FZC9N&originHeight=73&originWidth=90&originalType=binary&ratio=1&rotation=0&showTitle=false&size=4494&status=done&style=none&taskId=u5d23eb70-42b6-426f-b4a9-01aadedec27&title=)
-**数据开放平台**
-开放易用的API、支持对接第三方ERP系统
-
-![SaaS.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685595843240-73f1c8f7-1925-4118-856a-ecae4415304f.png#averageHue=%23191c40&clientId=u71313217-4065-4&from=paste&height=78&id=u3e16193b&originHeight=200&originWidth=200&originalType=binary&ratio=1&rotation=0&showTitle=false&size=10530&status=done&style=none&taskId=u9c02dfe7-852f-49db-99a8-1ef6fbcfda6&title=&width=78)
-SaaS 服务平台
-降低前期成本、可预测的持续成本、按需扩展能力、按需订阅付费
+![image](https://github.com/sass-store/doc/assets/11770232/186af986-a1bf-494f-8feb-87e3019b8a7f)
 ## 1.2 适用行业
 各种行业、各种场景，我们为您提供更适合的解决方案
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685608145170-36bddd02-ea56-45e6-8a41-d597116db07a.png#averageHue=%23f9f9f9&clientId=u93d1b0d8-d4cd-4&from=paste&height=89&id=ub5286ce1&originHeight=152&originWidth=1274&originalType=binary&ratio=1&rotation=0&showTitle=false&size=34650&status=done&style=none&taskId=ue6a08d7a-2aaf-4f92-9008-b5a943ea7b2&title=&width=747)
