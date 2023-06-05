@@ -1,8 +1,11 @@
 
 ## 合肥灼灼信息技术有限公司
- 
-> [官网](https://ygkosd-qrcode.site.laf.run) 
-> [ laf 云开发](https://www.laf.run)
+
+![image](https://github.com/sass-store/doc/assets/11770232/24e6184e-24c0-4e3b-9982-3ecde00e75c5)
+
+[礼品卡官网](https://ygkosd-qrcode.site.laf.run) 
+
+[laf云开发平台](https://www.laf.run)
 
 # 礼品卡SaaS服务平台
 > 礼品卡SaaS服务平台是集基础数据平台、统一支付系统、制卡管理系统、智能提货系统、在线商城系统、物流配送系统、智能客服系统、财务管理系统、数据分析系统为一体的综合性、智能化服务平台。
