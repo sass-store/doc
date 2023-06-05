@@ -59,7 +59,7 @@
 - 企业员工福利的更好选择企业逢年过节给员工发福利更加方便，外地员工回家也不用大包小包的提回去，只需将收货地址填老家地址就可以了。
 - 提货兑换周期长很多消费者购买后不会使用，等到需要的时候可以再提货，没有商品长期放置过期的风险，提货更加灵活方便。
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685610328568-ea2e2408-073c-4f4b-8ead-e693128761be.png#averageHue=%23b6b04e&clientId=u93d1b0d8-d4cd-4&from=paste&height=578&id=u4305e3ae&originHeight=578&originWidth=1053&originalType=binary&ratio=1&rotation=0&showTitle=false&size=193012&status=done&style=none&taskId=ua4555945-7b09-4467-9ee4-5bf458800a4&title=&width=1053)
-### 1.5.3 微商城
+### 1.5.3 微小店
 ### ![image.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685611993151-660a86a7-fb6f-486b-9de0-e6bdc855d746.png#averageHue=%23b7beb8&clientId=u93d1b0d8-d4cd-4&from=paste&height=670&id=uf42a0e82&originHeight=670&originWidth=855&originalType=binary&ratio=1&rotation=0&showTitle=false&size=236957&status=done&style=none&taskId=u5eb34543-c208-43cb-924e-73687ec3d9c&title=&width=855)
 
 ### 1.5.4 运营端
