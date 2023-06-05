@@ -66,6 +66,7 @@
 `便携简单` 商家可在各种移动设备或电脑上管理商品/会员/订单,支持商品即时拍照上架，顾客随时在微信下单/支付，便捷又高效
 ![weishop-bg1](https://github.com/sass-store/doc/assets/11770232/07745569-3864-4d36-8b64-91df759fe93c)
 
+`小程序商城` 建立自己的思域流量。
 ### ![image.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685611993151-660a86a7-fb6f-486b-9de0-e6bdc855d746.png#averageHue=%23b7beb8&clientId=u93d1b0d8-d4cd-4&from=paste&height=670&id=uf42a0e82&originHeight=670&originWidth=855&originalType=binary&ratio=1&rotation=0&showTitle=false&size=236957&status=done&style=none&taskId=u5eb34543-c208-43cb-924e-73687ec3d9c&title=&width=855)
 
 ### 1.5.4 运营端
