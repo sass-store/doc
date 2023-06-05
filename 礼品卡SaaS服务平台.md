@@ -17,7 +17,8 @@
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685608173745-75355ee3-fd16-4488-ac56-8267510eb3c6.png#averageHue=%237f6247&clientId=u93d1b0d8-d4cd-4&from=paste&height=409&id=u3a049a60&originHeight=642&originWidth=1249&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1267444&status=done&style=none&taskId=u29f7f4a1-4c63-4672-8034-ddeb70c063e&title=&width=795)
 ## 1.3  系统架构
 总体框架宜采用云计算架构进行部署，如图所示，分为基础设施层、支撑平台层、应用终端和信息安全体系等。
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685600001626-1ad3e5c2-e7fe-487a-a719-4c2c3c4b2c61.png#averageHue=%23d1dbec&clientId=u93d1b0d8-d4cd-4&from=paste&height=688&id=u7a48af67&originHeight=688&originWidth=1058&originalType=binary&ratio=1&rotation=0&showTitle=false&size=147263&status=done&style=none&taskId=u6ac79108-4f76-47a5-93bd-a38b183f161&title=&width=1058)
+![image](https://github.com/sass-store/doc/assets/11770232/063cb892-9a90-492d-8b4a-6dd1bead6e52)
+
 ## 1.4. 套餐售价
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685600214405-62690a63-6bcb-4f8a-a785-c7e3ef56d74f.png#averageHue=%23eed15a&clientId=u93d1b0d8-d4cd-4&from=paste&height=642&id=u9fa082e5&originHeight=642&originWidth=1590&originalType=binary&ratio=1&rotation=0&showTitle=false&size=414323&status=done&style=none&taskId=uc78311ac-c39b-47a2-8895-1a068384f26&title=&width=1590)
 ## 1.5 功能介绍
