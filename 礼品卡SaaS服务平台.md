@@ -49,11 +49,11 @@
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685608856617-fd7ec49c-78e3-4dc3-8012-c9fc3f11365c.png#averageHue=%233f4037&clientId=u93d1b0d8-d4cd-4&from=paste&height=491&id=u3343d32a&originHeight=491&originWidth=972&originalType=binary&ratio=1&rotation=0&showTitle=false&size=201105&status=done&style=none&taskId=u2b634c70-9fbb-4d8a-a8bc-3ae639fa029&title=&width=972)
 ### 1.5.2 预售卡
 商品卡券预售对商家有很多好处，比如，减少出库压力；延长销售周期；消费群体更大等等。
-一、商品更新鲜由于商品在消费者提货后由生产地直接发货给消费者，商品流转环节、流转周期大大减少，商品更新鲜，特别是针对生鲜类、食品类的商品来说更是明显，商品新鲜度对消费者和商家来说都是至关重要的。
-二、足不出户提货消费者再也不用到实体店排长队提货了，只需要在家里在手机上输入提货信息，坐等送货上门就可以，对消费者的来说提货体验大幅度提升。
-三、送礼更高档更便捷许多消费者购买卡券不是为了自己使用，而是为了送礼。精致的卡券送礼更加高档，而且不用大包小包提来提去对消费者来说更加便捷。另外卡券转赠也更加的方便。
-四、企业员工福利的更好选择企业逢年过节给员工发福利更加方便，外地员工回家也不用大包小包的提回去，只需将收货地址填老家地址就可以了。
-五、提货兑换周期长很多消费者购买后不会使用，等到需要的时候可以再提货，没有商品长期放置过期的风险，提货更加灵活方便。
+- 商品更新鲜由于商品在消费者提货后由生产地直接发货给消费者，商品流转环节、流转周期大大减少，商品更新鲜，特别是针对生鲜类、食品类的商品来说更是明显，商品新鲜度对消费者和商家来说都是至关重要的。
+- 足不出户提货消费者再也不用到实体店排长队提货了，只需要在家里在手机上输入提货信息，坐等送货上门就可以，对消费者的来说提货体验大幅度提升。
+- 送礼更高档更便捷许多消费者购买卡券不是为了自己使用，而是为了送礼。精致的卡券送礼更加高档，而且不用大包小包提来提去对消费者来说更加便捷。另外卡券转赠也更加的方便。
+- 企业员工福利的更好选择企业逢年过节给员工发福利更加方便，外地员工回家也不用大包小包的提回去，只需将收货地址填老家地址就可以了。
+- 提货兑换周期长很多消费者购买后不会使用，等到需要的时候可以再提货，没有商品长期放置过期的风险，提货更加灵活方便。
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685610328568-ea2e2408-073c-4f4b-8ead-e693128761be.png#averageHue=%23b6b04e&clientId=u93d1b0d8-d4cd-4&from=paste&height=578&id=u4305e3ae&originHeight=578&originWidth=1053&originalType=binary&ratio=1&rotation=0&showTitle=false&size=193012&status=done&style=none&taskId=ua4555945-7b09-4467-9ee4-5bf458800a4&title=&width=1053)
 ### 1.5.3 微商城
 ### ![image.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685611993151-660a86a7-fb6f-486b-9de0-e6bdc855d746.png#averageHue=%23b7beb8&clientId=u93d1b0d8-d4cd-4&from=paste&height=670&id=uf42a0e82&originHeight=670&originWidth=855&originalType=binary&ratio=1&rotation=0&showTitle=false&size=236957&status=done&style=none&taskId=u5eb34543-c208-43cb-924e-73687ec3d9c&title=&width=855)
