@@ -60,6 +60,12 @@
 - 提货兑换周期长很多消费者购买后不会使用，等到需要的时候可以再提货，没有商品长期放置过期的风险，提货更加灵活方便。
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685610328568-ea2e2408-073c-4f4b-8ead-e693128761be.png#averageHue=%23b6b04e&clientId=u93d1b0d8-d4cd-4&from=paste&height=578&id=u4305e3ae&originHeight=578&originWidth=1053&originalType=binary&ratio=1&rotation=0&showTitle=false&size=193012&status=done&style=none&taskId=ua4555945-7b09-4467-9ee4-5bf458800a4&title=&width=1053)
 ### 1.5.3 微小店
+`麻雀虽小，五脏俱全` 提高小店的管理效率 提高顾客消费回头率,把店开到客户手里,让产品进入消费者的手机.
+![weishop-img](https://github.com/sass-store/doc/assets/11770232/3efcb8ef-3c91-463f-99bf-4de9791d080e)
+
+`便携简单` 商家可在各种移动设备或电脑上管理商品/会员/订单,支持商品即时拍照上架，顾客随时在微信下单/支付，便捷又高效
+![weishop-bg1](https://github.com/sass-store/doc/assets/11770232/07745569-3864-4d36-8b64-91df759fe93c)
+
 ### ![image.png](https://cdn.nlark.com/yuque/0/2023/png/705052/1685611993151-660a86a7-fb6f-486b-9de0-e6bdc855d746.png#averageHue=%23b7beb8&clientId=u93d1b0d8-d4cd-4&from=paste&height=670&id=uf42a0e82&originHeight=670&originWidth=855&originalType=binary&ratio=1&rotation=0&showTitle=false&size=236957&status=done&style=none&taskId=u5eb34543-c208-43cb-924e-73687ec3d9c&title=&width=855)
 
 ### 1.5.4 运营端
